@@ -1,0 +1,1 @@
+<view><view class="buttonFather" a:for="{{citiesList}}" a:for-item="item" a:for-index="__i0__"><button data-event-opts="{{[['tap',[['goCity',['$0'],[[['citiesList','',__i0__]]]]]]]}}" onTap="__e"><view class="buttonWords">{{''+item.city+''}}</view></button></view></view>

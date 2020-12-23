@@ -1,0 +1,7 @@
+
+.container {
+	padding: 70rpx 20rpx;
+	font-size: 30rpx;
+	color: #636363;
+}
+

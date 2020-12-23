@@ -1,0 +1,9 @@
+{
+  "defaultTitle": "体验详情",
+  "pullRefresh": false,
+  "usingComponents": {
+    "share-btn": "/components/share-btn/share-btn",
+    "uni-icons": "/components/uni-ui/uni-icons/uni-icons",
+    "uni-popup": "/components/uni-ui/uni-popup/uni-popup"
+  }
+}

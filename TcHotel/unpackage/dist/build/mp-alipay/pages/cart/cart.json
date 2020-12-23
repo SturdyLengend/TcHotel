@@ -1,0 +1,12 @@
+{
+  "defaultTitle": "订单",
+  "pullRefresh": false,
+  "usingComponents": {
+    "goods": "/components/dingdan/goods",
+    "list": "/components/dingdan/list",
+    "next": "/components/dingdan/next",
+    "yi-ru": "/components/dingdan/yiru",
+    "wan-chen": "/components/dingdan/wanchen",
+    "qu-xiao": "/components/dingdan/quxiao"
+  }
+}

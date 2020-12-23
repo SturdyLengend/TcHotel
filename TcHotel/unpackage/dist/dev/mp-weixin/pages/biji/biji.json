@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "笔记",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-icons": "/components/uni-ui/uni-icons/uni-icons"
+  }
+}

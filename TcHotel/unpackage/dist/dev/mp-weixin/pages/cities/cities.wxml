@@ -1,0 +1,1 @@
+<view><block wx:for="{{res}}" wx:for-item="item" wx:for-index="__i0__"><view class="imageFather"><image src="{{item.scenicSpotImage}}" mode="widthFix"></image></view></block></view>

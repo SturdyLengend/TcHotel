@@ -1,0 +1,84 @@
+.home {
+  background-color: #f5e9ec;
+}
+.home .imgFather {
+  position: relative;
+}
+.home .imgFather .img1 {
+  width: 750rpx;
+}
+.home .imgFather .img2 {
+  margin-left: 25rpx;
+  position: absolute;
+  top: 550rpx;
+}
+.home .imgFather .img2 image {
+  width: 700rpx;
+  z-index: 998;
+}
+.home .footer {
+  position: relative;
+  width: 700rpx;
+  height: 650rpx;
+  background-color: #FFFFFF;
+  margin: 0 auto;
+  margin-top: 160rpx;
+  -webkit-border-radius: 20rpx;
+          border-radius: 20rpx;
+  padding-top: 35rpx;
+}
+.home .footer .countdownPart {
+  width: 470rpx;
+  height: 100rpx;
+  margin: 0 auto;
+}
+.home .footer .countdownPart .countdown-words {
+  display: inline-block;
+  width: 170rpx;
+  height: 100rpx;
+  float: left;
+}
+.home .footer .countdownPart .countdown-words text {
+  display: block;
+  margin-top: 11rpx;
+  font-size: 30rpx;
+  font-weight: 600;
+}
+.home .footer .countdownPart .countdown {
+  display: inline-block;
+  width: 300rpx;
+  height: 100rpx;
+  margin-top: 3rpx;
+  float: left;
+}
+.home .footer image {
+  width: 700rpx;
+}
+.home .footer .text1 {
+  font-size: 35rpx;
+  display: block;
+  margin-top: 15rpx;
+  margin-left: 30rpx;
+}
+.home .footer .text2 {
+  font-size: 30rpx;
+  display: inline-block;
+  margin-left: 30rpx;
+  margin-top: 10rpx;
+  color: #9b9b9b;
+}
+.home .footer .text3 {
+  font-size: 30rpx;
+  display: inline-block;
+  float: right;
+  margin-right: 30rpx;
+  margin-top: 10rpx;
+  color: #e3506e;
+}
+.home .footer .VIP button {
+  margin-left: 15rpx;
+  width: 670rpx;
+  background-color: #fc6315;
+  top: 30rpx;
+}
+

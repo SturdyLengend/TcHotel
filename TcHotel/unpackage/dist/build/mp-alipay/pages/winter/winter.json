@@ -1,0 +1,7 @@
+{
+  "defaultTitle": "冬季福利",
+  "pullRefresh": false,
+  "usingComponents": {
+    "uni-countdown": "/components/uni-ui/uni-countdown/uni-countdown"
+  }
+}

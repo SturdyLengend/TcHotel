@@ -1,0 +1,1 @@
+<view><block wx:for="{{pics}}" wx:for-item="item" wx:for-index="__i0__" wx:key="*this"><view><image src="{{item}}" mode="widthFix"></image></view></block><view class="footer"><button type="warn" data-event-opts="{{[['tap',[['tan',['$event']]]]]}}" bindtap="__e">加入会员</button></view></view>

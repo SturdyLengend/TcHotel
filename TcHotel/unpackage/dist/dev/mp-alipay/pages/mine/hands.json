@@ -1,0 +1,7 @@
+{
+  "defaultTitle": "酒店合作",
+  "pullRefresh": false,
+  "usingComponents": {
+    "ss-upload-image": "/components/ss-upload-image/ss-upload-image"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "defaultTitle": "试睡专区",
+  "pullRefresh": false,
+  "usingComponents": {
+    "swiper-adv": "/components/swiperAdv/swiperAdv"
+  }
+}

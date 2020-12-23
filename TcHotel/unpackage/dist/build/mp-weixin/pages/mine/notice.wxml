@@ -1,0 +1,1 @@
+<view><view data-event-opts="{{[['tap',[['getNewsDetail',['$event']]]]]}}" class="container" bindtap="__e"><rich-text nodes="{{content}}"></rich-text></view></view>

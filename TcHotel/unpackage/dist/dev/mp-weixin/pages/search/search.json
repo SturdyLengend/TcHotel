@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "搜索",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "suzhou": "/components/suzhou/suzhou",
+    "uni-load-more": "/components/uni-ui/uni-load-more/uni-load-more"
+  }
+}

@@ -1,0 +1,1 @@
+<view><view a:for="{{pics}}" a:for-item="item" a:for-index="__i0__" a:key="*this"><image src="{{item}}" mode="widthFix"></image></view><view class="footer"><button type="warn" data-event-opts="{{[['tap',[['tan',['$event']]]]]}}" onTap="__e">加入会员</button></view></view>

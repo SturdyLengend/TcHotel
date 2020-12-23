@@ -1,0 +1,1 @@
+<view class="home"><image src="{{topurl}}" mode="widthFix"></image><block wx:for="{{number}}" wx:for-item="item" wx:for-index="__i0__"><view><block wx:if="{{res.length}}"><swiper-adv vue-id="{{'1cdd0ce0-1-'+__i0__}}" res="{{res[item]}}" bind:__l="__l"></swiper-adv></block></view></block></view>

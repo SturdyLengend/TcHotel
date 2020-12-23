@@ -1,0 +1,79 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/find/find",
+    "pages/cart/cart",
+    "pages/mine/mine",
+    "pages/news/news",
+    "pages/reservation/reservation",
+    "pages/customer/customer",
+    "pages/hotel/hotel",
+    "pages/cities/cities",
+    "pages/reservationList/reservationList",
+    "pages/prize/prize",
+    "pages/welfare/welfare",
+    "pages/questions/questions",
+    "pages/sleep/sleep",
+    "pages/winter/winter",
+    "pages/search/search",
+    "pages/citiesList/citiesList",
+    "pages/hotelDetails/hotelDetails",
+    "pages/trafficGuidance/trafficGuidance",
+    "pages/map/map",
+    "pages/viewAllphotos/viewAllphotos",
+    "pages/toViewmore/toViewmore",
+    "pages/viewDetails/viewDetails",
+    "pages/shouquan/shouquan",
+    "pages/biji/biji",
+    "pages/finddetail/finddetail",
+    "pages/mine/center",
+    "pages/mine/coupon",
+    "pages/mine/hands",
+    "pages/mine/join",
+    "pages/mine/login",
+    "pages/mine/myQR",
+    "pages/mine/notice",
+    "pages/mine/qusetion",
+    "pages/mine/service",
+    "pages/mine/setting"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "首页",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#000000",
+    "selectedColor": "#ee8e67",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "static/icons/index.png",
+        "selectedIconPath": "static/icons/index1.png"
+      },
+      {
+        "pagePath": "pages/find/find",
+        "text": "体验",
+        "iconPath": "static/icons/find.png",
+        "selectedIconPath": "static/icons/find1.png"
+      },
+      {
+        "pagePath": "pages/cart/cart",
+        "text": "订单",
+        "iconPath": "static/icons/cart.png",
+        "selectedIconPath": "static/icons/cart1.png"
+      },
+      {
+        "pagePath": "pages/mine/mine",
+        "text": "我的",
+        "iconPath": "static/icons/mine.png",
+        "selectedIconPath": "static/icons/mine1.png"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap37.json"
+}

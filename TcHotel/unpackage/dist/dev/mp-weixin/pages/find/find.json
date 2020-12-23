@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "体验",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "uni-load-more": "/components/uni-ui/uni-load-more/uni-load-more",
+    "goods": "/components/goods/goods",
+    "dianzan": "/components/goods/dianzan"
+  }
+}

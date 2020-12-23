@@ -1,0 +1,301 @@
+@charset "UTF-8";
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.order-section .order-item {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.order-section {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-justify-content: space-around;
+          justify-content: space-around;
+  -webkit-align-content: center;
+          align-content: center;
+  background: #fff;
+  -webkit-border-radius: 10rpx;
+          border-radius: 10rpx;
+}
+.container {
+  background-color: #f5f5f5;
+  height: 100%;
+}
+.user-section {
+  height: 790rpx;
+  padding: 50rpx 15rpx 0;
+  position: relative;
+  background-color: #3f3737;
+}
+.shezhi {
+  margin-top: 45rpx;
+  height: 70rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.jl {
+  margin-left: 40rpx;
+}
+.user-info-box {
+  height: 212rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  position: relative;
+  z-index: 1;
+  padding: 0 40rpx 20rpx;
+}
+.user-info-box .portrait {
+  width: 100rpx;
+  height: 100rpx;
+  border: 5rpx solid #fff;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
+}
+.user-info-box .username {
+  font-size: 38rpx;
+  color: #e4e3e3;
+  margin-left: 20rpx;
+}
+.vip-card-box {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  color: #f7d680;
+  height: 430rpx;
+  background: -webkit-gradient(linear, right bottom, left top, from(black), to(rgba(0, 0, 0, 0.8)));
+  background: -webkit-linear-gradient(bottom right, black, rgba(0, 0, 0, 0.8));
+  background: linear-gradient(to top left, black, rgba(0, 0, 0, 0.8));
+  overflow: hidden;
+  position: relative;
+  padding: 20rpx 24rpx;
+}
+.vip-card-box .tb {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.vip-card-box .tb .zheng {
+  width: 135rpx;
+  height: 135rpx;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
+  margin-left: 30rpx;
+}
+.vip-card-box .tb .zheng .image1 {
+  width: 110rpx;
+}
+.vip-card-box .tb .zheng .img {
+  width: 110rpx;
+}
+.vip-card-box .tb .tit1 {
+  font-size: 24rpx;
+  color: #e7e7e7;
+  margin: 13rpx 0;
+  padding: 20rpx 0 0 26rpx;
+  width: 50rpx;
+}
+.vip-card-box .get_vip {
+  width: 97%;
+  height: 85rpx;
+  margin-top: 40rpx;
+  background-color: #ff6c36;
+  color: #ffebe5;
+}
+.vip-card-box .b-btn {
+  position: absolute;
+  right: 20rpx;
+  top: 16rpx;
+  width: 132rpx;
+  height: 40rpx;
+  text-align: center;
+  line-height: 40rpx;
+  font-size: 22rpx;
+  color: #36343c;
+  -webkit-border-radius: 20px;
+          border-radius: 20px;
+  background: -webkit-gradient(linear, left top, right top, from(#f9e6af), to(#ffd465));
+  background: -webkit-linear-gradient(left, #f9e6af, #ffd465);
+  background: linear-gradient(left, #f9e6af, #ffd465);
+  z-index: 1;
+}
+.vip-card-box .tit {
+  font-size: 28rpx;
+  color: #fff;
+  margin: 28rpx 0;
+}
+.vip-card-box .tit .yticon {
+  color: #f6e5a3;
+  margin-right: 16rpx;
+}
+.vip-card-box .e-b {
+  font-size: 24rpx;
+  color: #d8cba9;
+  margin-top: 10rpx;
+}
+.cover-container {
+  background: #f8f8f8;
+  margin-top: -19rpx;
+  padding: 0 30rpx;
+  position: relative;
+  background: #f5f5f5;
+}
+.cover-container .arc {
+  position: absolute;
+  left: 0;
+  top: 8rpx;
+  width: 100%;
+  height: 38rpx;
+}
+.tj-sction .tj-item {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  height: 140rpx;
+  font-size: 24rpx;
+  color: #75787d;
+}
+.tj-sction .num {
+  font-size: 32rpx;
+  color: #303133;
+  margin-bottom: 8rpx;
+}
+.order-section {
+  padding: 28rpx 0;
+  margin: 46rpx 17rpx 11px;
+}
+.order-section .red {
+  color: #ea4204;
+}
+.order-section .order-item {
+  width: 120rpx;
+  height: 120rpx;
+  -webkit-border-radius: 10rpx;
+          border-radius: 10rpx;
+  font-size: 26rpx;
+  font-weight: 700;
+  color: #303133;
+}
+.order-section .yticon {
+  font-size: 48rpx;
+  margin-bottom: 18rpx;
+  color: #fa436a;
+}
+.order-section .icon-shouhoutuikuan {
+  font-size: 44rpx;
+}
+.attention {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  height: 84rpx;
+  background-color: #fff;
+  margin: 0 17rpx;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  font-size: 12px;
+  margin-bottom: 12px;
+}
+.attention .text {
+  color: #949494;
+}
+.attention .guanzhu {
+  padding: 0;
+  width: 115rpx;
+  height: 50rpx;
+  border: 1px solid #fc7530;
+  font-size: 12px !important;
+  color: #fc7530;
+  line-height: 50rpx;
+  margin-left: 37px;
+}
+.ad {
+  margin: 0 17rpx;
+}
+.ad image {
+  width: 100%;
+}
+.history-section {
+  padding-left: 16rpx 0 0;
+  margin: 20rpx 17rpx -4rpx;
+  background: #fff;
+  -webkit-border-radius: 10rpx;
+          border-radius: 10rpx;
+  font-weight: 700;
+  height: 540rpx;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+}
+.history-section view {
+  margin-left: 34rpx;
+  margin-right: 34rpx;
+  height: 105rpx;
+  line-height: 105rpx;
+  font-size: 30rpx;
+}
+.history-section view .fr {
+  float: right;
+  line-height: 99rpx;
+}
+.history-section .jl {
+  margin-left: 20rpx;
+}
+.history-section .xian {
+  border-bottom: 2px solid #fafafa !important;
+}
+.history-section .content {
+  padding-bottom: 0px;
+}
+

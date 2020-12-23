@@ -1,0 +1,2 @@
+<view class="container"><image class="bg-set" src="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1964961921,3267854311&fm=26&gp=0.jpg"></image><view class="text"><text>Hi~
+			欢迎来到如程</text></view><button type="primary" open-type="getUserInfo" data-event-opts="{{[['getuserinfo',[['getUserInfo',['$event']]]]]}}" onGetuserinfo="__e">微信授权登录</button></view>

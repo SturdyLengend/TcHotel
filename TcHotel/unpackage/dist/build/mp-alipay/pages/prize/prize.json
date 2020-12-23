@@ -1,0 +1,9 @@
+{
+  "defaultTitle": "天天抽奖",
+  "pullRefresh": false,
+  "usingComponents": {
+    "uni-popup": "/components/uni-ui/uni-popup/uni-popup",
+    "uni-popup-message": "/components/uni-ui/uni-popup-message/uni-popup-message",
+    "uni-popup-dialog": "/components/uni-ui/uni-popup-dialog/uni-popup-dialog"
+  }
+}

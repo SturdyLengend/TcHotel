@@ -1,0 +1,93 @@
+.container {
+  padding: 20rpx 40rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.container .title {
+  font-size: 35rpx;
+  color: #4a4a4a;
+}
+.container .table {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  margin-top: 40rpx;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.container .table .name {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  color: #4c4c4c;
+  float: left;
+  text-align: right;
+  font-size: 30rpx;
+  padding-right: 15rpx;
+}
+.container .table input {
+  width: 480rpx;
+  height: 66rpx;
+  border: 1px solid #d4d4d4;
+}
+.container .table input .placeholder {
+  font-size: 26rpx;
+  padding-left: 18rpx;
+}
+.container .table .icon {
+  color: #fc864a;
+}
+.container .ms {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  margin-top: 40rpx;
+  padding-left: 20rpx;
+}
+.container .ms .zt {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  color: #4c4c4c;
+  float: left;
+  font-size: 30rpx;
+  padding-top: 15rpx;
+  white-space: nowrap;
+  text-align: right;
+}
+.container .ms textarea {
+  width: 480rpx;
+  height: 150rpx;
+  border: 1px solid #d4d4d4;
+}
+.container .pic {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  color: #4c4c4c;
+  margin-top: 40rpx;
+  font-size: 30rpx;
+  padding-left: 30rpx;
+  margin-bottom: 200rpx;
+}
+.container .pic .demo {
+  margin-left: 31rpx;
+}
+.container .fixed {
+  width: 100%;
+  height: 150rpx;
+  position: fixed;
+  bottom: 0;
+  background-color: #fff;
+}
+.container .fixed button {
+  margin-right: 80rpx;
+  background-color: #fc6315;
+  color: #fff;
+  font-weight: 700;
+}
+

@@ -1,0 +1,7 @@
+{
+  "defaultTitle": "笔记",
+  "pullRefresh": false,
+  "usingComponents": {
+    "uni-icons": "/components/uni-ui/uni-icons/uni-icons"
+  }
+}

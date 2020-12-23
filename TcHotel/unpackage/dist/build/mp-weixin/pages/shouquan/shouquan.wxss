@@ -1,0 +1,1 @@
+.bg-set{position:fixed;width:100%;height:100%;top:0;left:0;z-index:-1}.text{margin:180rpx 80rpx;color:#fff;font-size:80rpx}button{margin:367rpx 60rpx;-webkit-border-radius:200rpx;border-radius:200rpx;background-color:#fc6315!important}

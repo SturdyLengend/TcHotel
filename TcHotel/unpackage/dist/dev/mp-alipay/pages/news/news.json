@@ -1,0 +1,7 @@
+{
+  "defaultTitle": "最新上线",
+  "pullRefresh": false,
+  "usingComponents": {
+    "swiper-adv": "/components/swiperAdv/swiperAdv"
+  }
+}

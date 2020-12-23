@@ -1,0 +1,7 @@
+.container {
+  margin-top: 89rpx;
+}
+.uni-collapse-cell {
+  margin: 0 40rpx;
+}
+

@@ -1,0 +1,1 @@
+.view1{margin-top:20px;margin-left:260rpx}.bottom{display:-webkit-box;display:-webkit-flex;display:flex;position:fixed;bottom:0;width:100%;background-color:#fff;-webkit-box-shadow:0 0;box-shadow:0 0;padding:120rpx 0}button{width:325rpx;height:90rpx;background-color:#fc6315;font-size:36rpx;font-weight:700;color:#fff;margin-left:auto;margin-right:auto}

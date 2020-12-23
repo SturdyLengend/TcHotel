@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "最新上线",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "swiper-adv": "/components/swiperAdv/swiperAdv"
+  }
+}

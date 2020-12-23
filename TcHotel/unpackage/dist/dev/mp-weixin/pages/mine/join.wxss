@@ -1,0 +1,24 @@
+image.data-v-e14c1386 {
+  width: 100%;
+}
+.bottom.data-v-e14c1386 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: #FFFFFF;
+  -webkit-box-shadow: 0 2px;
+          box-shadow: 0 2px;
+  padding: 16rpx 0;
+}
+.bottom button.data-v-e14c1386 {
+  width: 375rpx;
+  height: 90rpx;
+  background-color: #fc6315;
+  font-size: 36rpx;
+  font-weight: 700;
+  color: #FFFFFF;
+}
+

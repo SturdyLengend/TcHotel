@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "订单",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "goods": "/components/dingdan/goods",
+    "list": "/components/dingdan/list",
+    "next": "/components/dingdan/next",
+    "yi-ru": "/components/dingdan/yiru",
+    "wan-chen": "/components/dingdan/wanchen",
+    "qu-xiao": "/components/dingdan/quxiao"
+  }
+}

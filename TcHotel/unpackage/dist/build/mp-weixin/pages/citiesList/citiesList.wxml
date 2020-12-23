@@ -1,0 +1,1 @@
+<view><block wx:for="{{citiesList}}" wx:for-item="item" wx:for-index="__i0__"><view class="buttonFather"><button data-event-opts="{{[['tap',[['goCity',['$0'],[[['citiesList','',__i0__]]]]]]]}}" bindtap="__e"><view class="buttonWords">{{''+item.city+''}}</view></button></view></block></view>

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "预定榜单",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "swiper-adv": "/components/swiperAdv/swiperAdv"
+  }
+}

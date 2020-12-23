@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "常见问题",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "collapse": "/components/uni-ui/uni-collapse/uni-collapse",
+    "collapse-item": "/components/uni-ui/uni-collapse-item/uni-collapse-item"
+  }
+}

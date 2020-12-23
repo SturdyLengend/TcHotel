@@ -1,0 +1,1 @@
+<view><view class="imageFather" a:for="{{res}}" a:for-item="item" a:for-index="__i0__"><image src="{{item.scenicSpotImage}}" mode="widthFix"></image></view></view>

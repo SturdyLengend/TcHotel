@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "冬季福利",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-countdown": "/components/uni-ui/uni-countdown/uni-countdown"
+  }
+}

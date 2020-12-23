@@ -1,0 +1,8 @@
+.home {
+  background-color: #7487ee;
+}
+.home image {
+  display: block;
+  width: 750rpx;
+}
+

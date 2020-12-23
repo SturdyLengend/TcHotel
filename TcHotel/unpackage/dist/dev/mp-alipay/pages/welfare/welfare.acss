@@ -1,0 +1,25 @@
+view {
+  position: relative;
+}
+view image {
+  display: block;
+  width: 750rpx;
+}
+view .footer {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  position: fixed;
+  bottom: 100rpx;
+  width: 100%;
+  background-color: #FFFFFF;
+  -webkit-box-shadow: 0 2px;
+          box-shadow: 0 2px;
+}
+view .footer button {
+  margin-left: 40rpx;
+  width: 670rpx;
+  background-color: #fc6315;
+  position: fixed;
+}
+

@@ -1,0 +1,8 @@
+.buttonFather button {
+  background-color: #FFFFFF;
+  margin-bottom: 8rpx;
+}
+.buttonFather button .buttonWords {
+  font-size: 30rpx;
+}
+

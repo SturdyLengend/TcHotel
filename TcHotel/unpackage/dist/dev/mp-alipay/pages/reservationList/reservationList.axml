@@ -1,0 +1,1 @@
+<view class="home"><image src="{{topurl}}" mode="widthFix"></image><view a:for="{{number}}" a:for-item="item" a:for-index="__i0__"><block a:if="{{res.length}}"><swiper-adv vue-id="{{'185b9180-1-'+__i0__}}" res="{{res[item]}}" onVueInit="__l"></swiper-adv></block></view></view>

@@ -1,0 +1,1 @@
+<view><view class="view1">此功能未开通</view><view class="bottom"><button data-event-opts="{{[['tap',[['goDengLu']]]]}}" class="left" bindtap="__e">立即登录</button></view></view>

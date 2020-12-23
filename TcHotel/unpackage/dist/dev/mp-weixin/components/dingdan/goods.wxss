@@ -1,0 +1,28 @@
+
+.view1 {
+	margin-top: 20px;
+	margin-left: 260rpx;
+}
+.bottom {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	background-color: #FFFFFF;
+	-webkit-box-shadow: 0 0px;
+	        box-shadow: 0 0px;
+	padding: 120rpx 0;
+}
+button {
+	width: 325rpx;
+	height: 90rpx;
+	background-color: #fc6315;
+	font-size: 36rpx;
+	font-weight: 700;
+	color: #FFFFFF;
+	margin-left: auto;
+	margin-right: auto;
+}
+
